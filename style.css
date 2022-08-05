@@ -5,8 +5,8 @@
 }
 div{
     color: white;
-    
-}
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
 #s{
     background-color: skyblue;
 }
@@ -21,7 +21,14 @@ div{
 }
 
 h1 {
-   text-align: center; 
-   color: red;
-   background-color: khaki;
+    text-align: center; 
+    color: red;
+    background-color: khaki;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.img {
+    padding: 50px 0;
+    width: 600px;
+    margin: 0 auto;
+ }
+
